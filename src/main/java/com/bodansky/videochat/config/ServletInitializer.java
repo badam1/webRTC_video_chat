@@ -1,5 +1,6 @@
-package com.bodansky.videochat;
+package com.bodansky.videochat.config;
 
+import com.bodansky.videochat.WebRTCVideoChatApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
