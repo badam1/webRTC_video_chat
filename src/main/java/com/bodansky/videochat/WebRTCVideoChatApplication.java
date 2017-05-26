@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebrtcVideoChatApplication {
+public class WebRTCVideoChatApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebrtcVideoChatApplication.class, args);
+		SpringApplication.run(WebRTCVideoChatApplication.class, args);
 	}
 }
